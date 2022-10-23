@@ -397,6 +397,10 @@ small,
   border-radius: 100px;
   border: 12px solid var(--primary-300);
   width: 50px;
+  min-width: 50px;
+  max-width: 50px;
+  min-height: 50px;
+  max-height: 50px;
   height: 50px;
   cursor: pointer;
   opacity: 0.85;
