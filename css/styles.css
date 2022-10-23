@@ -406,6 +406,8 @@ small,
   opacity: 0.85;
   position: absolute;
   background: none;
+  display: block;
+  padding: 0;
 }
 
 .target_active {
